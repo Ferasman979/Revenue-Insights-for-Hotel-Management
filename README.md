@@ -2,12 +2,14 @@
 Overview
 Welcome to the Revenue Insights for Hotel Management dashboard repository. This project is designed to provide a comprehensive view of hotel revenue metrics, offering valuable insights into various aspects of hotel performance. The dashboard integrates multiple data sources to present real-time insights on key performance indicators such as revenue, occupancy, average daily rate (ADR), and other important metrics that help in strategic decision-making.
 
-Key Features
+Key Features:
+
+
 Real-time Revenue Insights: Monitor the overall revenue performance across different cities and room classes. The dashboard provides a high-level view of total revenue, revenue per available room (RevPAR), daily sellable room nights (DSRN), and more.
 
-Occupancy and ADR Analysis: Gain insights into the occupancy rate and average daily rate (ADR) across different periods, helping you understand how these factors influence overall revenue.
+Occupancy and ADR Analysis: Gain insights into the occupancy and average daily rates (ADR) across different periods, helping you understand how these factors influence overall revenue.
 
-Revenue by Category: Visualize the breakdown of revenue by business and luxury categories, providing clarity on which segments contribute most to your revenue.
+Revenue by Category: Visualize revenue breakdown by business and luxury categories, clarifying which segments contribute most to your revenue.
 
 Trend Analysis by Key Metrics: Track trends over time for crucial metrics like RevPAR, ADR, and Occupancy %. This feature allows you to identify patterns and make data-driven decisions.
 
@@ -31,9 +33,9 @@ Detailed Property Table: A comprehensive table listing detailed metrics for each
 How to Use
 Clone the Repository: Clone this repository to your local machine using the following command:
 
-bash
-Copy code
 git clone https://github.com/yourusername/revenue-insights-hotel-management.git
+
+
 Data Integration: Ensure you have access to the relevant data sources and have integrated them into the dashboard. The data should be structured as required for the different components of the dashboard.
 
 Customization: Modify filters, charts, and tables as needed to reflect the specific needs of your hotel management operations.
@@ -43,9 +45,10 @@ Deployment: Deploy the dashboard on your preferred platform (e.g., Power BI, Tab
 Requirements
 Data Source Integration: Ensure that your data sources (e.g., SQL databases, CSV files) are properly linked.
 BI Tools: This dashboard can be implemented using tools like Power BI, Tableau, or any other data visualization tool that supports similar functionalities.
+
 Permissions: Ensure you have the necessary permissions to access and modify the data sources used in this dashboard.
-Contributions
+Contributions:
 Contributions are welcome! If you have suggestions or improvements, feel free to submit a pull request or open an issue.
 
-License
+License:
 This project is licensed under the MIT License - see the LICENSE file for details
